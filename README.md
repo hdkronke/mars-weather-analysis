@@ -11,6 +11,6 @@ The statistics were analyzed and reformed into dataframes for easier use.
 
 Using Matplotlib, I created visualizations to make the results easier to share!
 
-![3](https://github.com/hdkronke/data-scraping-challenge/assets/117773492/e67bd296-7214-4e53-b41e-26937c9b3356)
-![2](https://github.com/hdkronke/data-scraping-challenge/assets/117773492/50b27b2e-7829-42bd-8957-69ef40277ce2)
 ![1](https://github.com/hdkronke/data-scraping-challenge/assets/117773492/37e6c8d9-2529-4ae2-a29f-d8e27542e7ce)
+![2](https://github.com/hdkronke/data-scraping-challenge/assets/117773492/50b27b2e-7829-42bd-8957-69ef40277ce2)
+![3](https://github.com/hdkronke/data-scraping-challenge/assets/117773492/e67bd296-7214-4e53-b41e-26937c9b3356)
