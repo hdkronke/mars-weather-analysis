@@ -1,5 +1,5 @@
-# Data Scraping Challenge
-## Module 11
+# Mars Weather Analysis
+## Data/Web Scraping
 
 For this project, I used data/web scraping to view information from a website and visualize the weather data on Mars.
 
